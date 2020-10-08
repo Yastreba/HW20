@@ -1,0 +1,101 @@
+.head{
+  border: none;
+  background-color: #a9a9a9;
+  height: 2px;
+}
+.bigbox{
+  display: flex;
+  justify-content: space-between;
+}
+.leftBox{
+  border-bottom: 2px solid #a9a9a9;
+  border-top: 2px solid #a9a9a9;
+  border-left: 2px solid #a9a9a9;
+  background-image: url(/home/user/Desktop/HW20/images/Grey.jpg);
+  margin: 0px;
+  height: 780px;
+  width: 260px;
+  float: left;
+}
+.centralbox{
+  border: 2px solid #a9a9a9;
+  /* background-color: gray; */
+  background-color:#eee;
+  height:780px;
+  width: calc(100% - 520px);
+  padding: 0 30px;
+}
+.loginbox{
+  border: 2px solid #a9a9a9;
+  background-color: dark gray;
+  margin-top: 10px;
+  width: 100%;
+  background-color:#d3d3d3;
+  height:110px;
+}
+.invislogbox{
+  margin-top: 10px;
+  width: 100%;
+  background-color:#d3d3d3;
+  width: 50%;
+  height:90px;
+  float:right;
+}
+.rightbox{
+  border-bottom: 2px solid #a9a9a9;
+  border-top: 2px solid #a9a9a9;
+  border-right: 2px solid #a9a9a9;
+  background-image: url(/home/user/Desktop/HW20/images/Grey.jpg);
+  height:780px;
+  width: 260px;
+  float:right;
+}
+.searchblock1{
+  border: 2px solid #a9a9a9;
+  background-color: dark gray;
+  margin-top: 10px;
+  padding: 5px;
+  width: 100%;
+  background-color:#d3d3d3;
+  height:70px;
+}
+.searchblock2{
+  border: 2px solid #a9a9a9;
+  background-color: dark gray;
+  margin-top: 10px;
+  padding: 5px;
+  width: 100%;
+  background-color:#d3d3d3;
+  height:85px;
+}
+.filesblock{
+  margin-top: 10px;
+  padding: 5px;
+  width: 100%;
+
+  height:120px;
+}
+.td{
+  border:2px solid #a9a9a9;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+}
+#files{
+  border:2px solid #a9a9a9;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+}
+#size{
+  border:2px solid #a9a9a9;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+}
+#date{
+  border:2px solid #a9a9a9;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+}
