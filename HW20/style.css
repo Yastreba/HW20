@@ -11,7 +11,7 @@
   border-bottom: 2px solid #a9a9a9;
   border-top: 2px solid #a9a9a9;
   border-left: 2px solid #a9a9a9;
-  background-image: url(/home/user/Desktop/HW20/images/Grey.jpg);
+  background-image: url(/home/user/Desktop/testHTML/HW20/images/Grey.jpg);
   margin: 0px;
   height: 780px;
   width: 260px;
@@ -19,7 +19,6 @@
 }
 .centralbox{
   border: 2px solid #a9a9a9;
-  /* background-color: gray; */
   background-color:#eee;
   height:780px;
   width: calc(100% - 520px);
@@ -45,7 +44,7 @@
   border-bottom: 2px solid #a9a9a9;
   border-top: 2px solid #a9a9a9;
   border-right: 2px solid #a9a9a9;
-  background-image: url(/home/user/Desktop/HW20/images/Grey.jpg);
+  background-image: url(/home/user/Desktop/testHTML/HW20/images/Grey.jpg);
   height:780px;
   width: 260px;
   float:right;
